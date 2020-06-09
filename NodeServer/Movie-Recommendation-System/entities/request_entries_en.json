@@ -1,0 +1,20 @@
+[
+  {
+    "value": "movie",
+    "synonyms": [
+      "movie"
+    ]
+  },
+  {
+    "value": "film",
+    "synonyms": [
+      "film"
+    ]
+  },
+  {
+    "value": "cinema",
+    "synonyms": [
+      "cinema"
+    ]
+  }
+]

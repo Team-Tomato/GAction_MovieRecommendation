@@ -1,0 +1,94 @@
+[
+  {
+    "id": "c5b48ec8-6704-47e5-8736-293e9292f855",
+    "data": [
+      {
+        "text": "option ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "alias": "option_a",
+        "meta": "@option_a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13f7856a-ac39-4c9f-be6f-0b02a25b20ad",
+    "data": [
+      {
+        "text": "my choice is ",
+        "userDefined": false
+      },
+      {
+        "text": "A",
+        "alias": "option_a",
+        "meta": "@option_a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87f10a9f-7102-442d-81b3-3fd05bb8f6e4",
+    "data": [
+      {
+        "text": "a",
+        "alias": "option_a",
+        "meta": "@option_a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "0778a2ff-e032-4875-b499-0e6845a67d48",
+    "data": [
+      {
+        "text": "first",
+        "alias": "option_a",
+        "meta": "@option_a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67759332-9e1e-4a89-bc97-ffde67cd95d7",
+    "data": [
+      {
+        "text": "1st",
+        "alias": "option_a",
+        "meta": "@option_a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf06565c-9d67-4ed8-8a33-6dfe89130125",
+    "data": [
+      {
+        "text": "1",
+        "alias": "option_a",
+        "meta": "@option_a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]
