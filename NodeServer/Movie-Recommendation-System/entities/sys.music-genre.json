@@ -1,0 +1,9 @@
+{
+  "id": "1aff6cd9-75ee-4926-b1d6-69f268b166fe",
+  "name": "sys.music-genre",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
