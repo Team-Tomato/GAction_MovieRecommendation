@@ -1,0 +1,55 @@
+{
+  "id": "3c87fcce-602f-46c8-a124-33b70085cc94",
+  "parentId": "37b379b0-df3c-418d-a3cf-a51236e1fc96",
+  "rootParentId": "cb25df34-4fd8-4357-97f7-29218e863647",
+  "name": "user_favorite_genre",
+  "auto": true,
+  "contexts": [
+    "user_favorite_language-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-option_a-custom.user_favorite_language-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1c786fb2-74ab-417b-916c-76fb75632919",
+          "required": true,
+          "dataType": "@movie_genre",
+          "name": "movie_genre",
+          "value": "$movie_genre",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry I can\u0027t understand. What is your favorite genre ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

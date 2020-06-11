@@ -1,0 +1,794 @@
+[
+  {
+    "value": "master",
+    "synonyms": [
+      "master"
+    ]
+  },
+  {
+    "value": "valimai",
+    "synonyms": [
+      "valimai"
+    ]
+  },
+  {
+    "value": "bigil",
+    "synonyms": [
+      "bigil"
+    ]
+  },
+  {
+    "value": "sarkar",
+    "synonyms": [
+      "sarkar"
+    ]
+  },
+  {
+    "value": "mersal",
+    "synonyms": [
+      "mersal"
+    ]
+  },
+  {
+    "value": "Petta",
+    "synonyms": [
+      "Petta"
+    ]
+  },
+  {
+    "value": "mei",
+    "synonyms": [
+      "mei"
+    ]
+  },
+  {
+    "value": "darbar",
+    "synonyms": [
+      "darbar"
+    ]
+  },
+  {
+    "value": "Pattas",
+    "synonyms": [
+      "Pattas"
+    ]
+  },
+  {
+    "value": "Psycho",
+    "synonyms": [
+      "Psycho"
+    ]
+  },
+  {
+    "value": "kannum kannum kollaiyadithal",
+    "synonyms": [
+      "kannum kannum kollaiyadithal"
+    ]
+  },
+  {
+    "value": "oh my kadavule",
+    "synonyms": [
+      "oh my kadavule"
+    ]
+  },
+  {
+    "value": "Naan sirithal",
+    "synonyms": [
+      "Naan sirithal"
+    ]
+  },
+  {
+    "value": "Mafia: Chapter 1",
+    "synonyms": [
+      "Mafia: Chapter 1"
+    ]
+  },
+  {
+    "value": "draupathi",
+    "synonyms": [
+      "draupathi"
+    ]
+  },
+  {
+    "value": "Vaanam Kottattum",
+    "synonyms": [
+      "Vaanam Kottattum"
+    ]
+  },
+  {
+    "value": "Dagaalty",
+    "synonyms": [
+      "Dagaalty"
+    ]
+  },
+  {
+    "value": "Day knight",
+    "synonyms": [
+      "Day knight"
+    ]
+  },
+  {
+    "value": "Taana",
+    "synonyms": [
+      "Taana"
+    ]
+  },
+  {
+    "value": "Naadodigal 2",
+    "synonyms": [
+      "Naadodigal 2"
+    ]
+  },
+  {
+    "value": "Seeru",
+    "synonyms": [
+      "Seeru"
+    ]
+  },
+  {
+    "value": "God Father",
+    "synonyms": [
+      "God Father"
+    ]
+  },
+  {
+    "value": "Gypsy",
+    "synonyms": [
+      "Gypsy"
+    ]
+  },
+  {
+    "value": "walter",
+    "synonyms": [
+      "walter"
+    ]
+  },
+  {
+    "value": "dharala prabhu",
+    "synonyms": [
+      "dharala prabhu"
+    ]
+  },
+  {
+    "value": "kalavani 2",
+    "synonyms": [
+      "kalavani 2"
+    ]
+  },
+  {
+    "value": "raatchasi",
+    "synonyms": [
+      "raatchasi"
+    ]
+  },
+  {
+    "value": "bodhai yeri budhi maari",
+    "synonyms": [
+      "bodhai yeri budhi maari"
+    ]
+  },
+  {
+    "value": "gorilla",
+    "synonyms": [
+      "gorilla"
+    ]
+  },
+  {
+    "value": "gurkha",
+    "synonyms": [
+      "gurkha"
+    ]
+  },
+  {
+    "value": "thozhar venkatesan",
+    "synonyms": [
+      "thozhar venkatesan"
+    ]
+  },
+  {
+    "value": "vennila kabaddi kuzhu 2",
+    "synonyms": [
+      "vennila kabaddi kuzhu 2"
+    ]
+  },
+  {
+    "value": "kadaram kondan",
+    "synonyms": [
+      "kadaram kondan"
+    ]
+  },
+  {
+    "value": "A1: Accused no.1",
+    "synonyms": [
+      "A1: Accused no.1"
+    ]
+  },
+  {
+    "value": "chennai palani mars",
+    "synonyms": [
+      "chennai palani mars"
+    ]
+  },
+  {
+    "value": "jackpot",
+    "synonyms": [
+      "jackpot"
+    ]
+  },
+  {
+    "value": "kazhugu 2",
+    "synonyms": [
+      "kazhugu 2"
+    ]
+  },
+  {
+    "value": "thorati",
+    "synonyms": [
+      "thorati"
+    ]
+  },
+  {
+    "value": "nerkonda paarvai",
+    "synonyms": [
+      "nerkonda paarvai"
+    ]
+  },
+  {
+    "value": "kolaiyuthir kaalam",
+    "synonyms": [
+      "kolaiyuthir kaalam"
+    ]
+  },
+  {
+    "value": "comali",
+    "synonyms": [
+      "comali"
+    ]
+  },
+  {
+    "value": "kennedy club",
+    "synonyms": [
+      "kennedy club"
+    ]
+  },
+  {
+    "value": "bakrid",
+    "synonyms": [
+      "bakrid"
+    ]
+  },
+  {
+    "value": "mei",
+    "synonyms": [
+      "mei"
+    ]
+  },
+  {
+    "value": "saaho",
+    "synonyms": [
+      "saaho"
+    ]
+  },
+  {
+    "value": "sixer",
+    "synonyms": [
+      "sixer"
+    ]
+  },
+  {
+    "value": "magamuni",
+    "synonyms": [
+      "magamuni"
+    ]
+  },
+  {
+    "value": "sivappu manjal pachai",
+    "synonyms": [
+      "sivappu manjal pachai"
+    ]
+  },
+  {
+    "value": "zombie",
+    "synonyms": [
+      "zombie"
+    ]
+  },
+  {
+    "value": "kaappaan",
+    "synonyms": [
+      "kaappaan"
+    ]
+  },
+  {
+    "value": "oththa seruppu size 7",
+    "synonyms": [
+      "oththa seruppu size 7"
+    ]
+  },
+  {
+    "value": "super duper",
+    "synonyms": [
+      "super duper"
+    ]
+  },
+  {
+    "value": "namma veettu pillai",
+    "synonyms": [
+      "namma veettu pillai"
+    ]
+  },
+  {
+    "value": "thittam poattu thirudura kootam",
+    "synonyms": [
+      "thittam poattu thirudura kootam"
+    ]
+  },
+  {
+    "value": "100% kadhal",
+    "synonyms": [
+      "100% kadhal"
+    ]
+  },
+  {
+    "value": "asuran",
+    "synonyms": [
+      "asuran"
+    ]
+  },
+  {
+    "value": "aruvam",
+    "synonyms": [
+      "aruvam"
+    ]
+  },
+  {
+    "value": "petromax",
+    "synonyms": [
+      "petromax"
+    ]
+  },
+  {
+    "value": "puppy",
+    "synonyms": [
+      "puppy"
+    ]
+  },
+  {
+    "value": "kaaviyyan",
+    "synonyms": [
+      "kaaviyyan"
+    ]
+  },
+  {
+    "value": "kaithi",
+    "synonyms": [
+      "kaithi"
+    ]
+  },
+  {
+    "value": "miga miga avasaram",
+    "synonyms": [
+      "miga miga avasaram"
+    ]
+  },
+  {
+    "value": "thavam",
+    "synonyms": [
+      "thavam"
+    ]
+  },
+  {
+    "value": "sangathamizhan",
+    "synonyms": [
+      "sangathamizhan"
+    ]
+  },
+  {
+    "value": "adithya varma",
+    "synonyms": [
+      "adithya varma"
+    ]
+  },
+  {
+    "value": "KD",
+    "synonyms": [
+      "KD"
+    ]
+  },
+  {
+    "value": "adutha saattai",
+    "synonyms": [
+      "adutha saattai"
+    ]
+  },
+  {
+    "value": "azhiyatha kalangal 2",
+    "synonyms": [
+      "azhiyatha kalangal 2"
+    ]
+  },
+  {
+    "value": "enai noki paayum thota",
+    "synonyms": [
+      "enai noki paayum thota"
+    ]
+  },
+  {
+    "value": "market raja MBBS",
+    "synonyms": [
+      "market raja MBBS"
+    ]
+  },
+  {
+    "value": "iruttu",
+    "synonyms": [
+      "iruttu"
+    ]
+  },
+  {
+    "value": "jada",
+    "synonyms": [
+      "jada"
+    ]
+  },
+  {
+    "value": "capmaari",
+    "synonyms": [
+      "capmaari"
+    ]
+  },
+  {
+    "value": "chennai 2 bangtok",
+    "synonyms": [
+      "chennai 2 bangtok"
+    ]
+  },
+  {
+    "value": "kaalidas",
+    "synonyms": [
+      "kaalidas"
+    ]
+  },
+  {
+    "value": "karuthukalai pathivu sei",
+    "synonyms": [
+      "karuthukalai pathivu sei"
+    ]
+  },
+  {
+    "value": "marina puratchi",
+    "synonyms": [
+      "marina puratchi"
+    ]
+  },
+  {
+    "value": "hero",
+    "synonyms": [
+      "hero"
+    ]
+  },
+  {
+    "value": "thambi",
+    "synonyms": [
+      "thambi"
+    ]
+  },
+  {
+    "value": "pancharaaksharam",
+    "synonyms": [
+      "pancharaaksharam"
+    ]
+  },
+  {
+    "value": "v1 murder case",
+    "synonyms": [
+      "v1 murder case"
+    ]
+  },
+  {
+    "value": "maanik",
+    "synonyms": [
+      "maanik"
+    ]
+  },
+  {
+    "value": "petta",
+    "synonyms": [
+      "petta"
+    ]
+  },
+  {
+    "value": "viswasam",
+    "synonyms": [
+      "viswasam"
+    ]
+  },
+  {
+    "value": "charlie chaplin 2",
+    "synonyms": [
+      "charlie chaplin 2"
+    ]
+  },
+  {
+    "value": "kuthoosi",
+    "synonyms": [
+      "kuthoosi"
+    ]
+  },
+  {
+    "value": "sagaa",
+    "synonyms": [
+      "sagaa"
+    ]
+  },
+  {
+    "value": "vantha rajavathaan varuven",
+    "synonyms": [
+      "vantha rajavathaan varuven"
+    ]
+  },
+  {
+    "value": "dhilluku dhuddu 2",
+    "synonyms": [
+      "dhilluku dhuddu 2"
+    ]
+  },
+  {
+    "value": "nethraa",
+    "synonyms": [
+      "nethraa"
+    ]
+  },
+  {
+    "value": "kalavu",
+    "synonyms": [
+      "kalavu"
+    ]
+  },
+  {
+    "value": "chithiram pesuthadi 2",
+    "synonyms": [
+      "chithiram pesuthadi 2"
+    ]
+  },
+  {
+    "value": "goko mako",
+    "synonyms": [
+      "goko mako"
+    ]
+  },
+  {
+    "value": "LKG",
+    "synonyms": [
+      "LKG"
+    ]
+  },
+  {
+    "value": "dha dha 87",
+    "synonyms": [
+      "dha dha 87"
+    ]
+  },
+  {
+    "value": "thadam",
+    "synonyms": [
+      "thadam"
+    ]
+  },
+  {
+    "value": "thirumanam",
+    "synonyms": [
+      "thirumanam"
+    ]
+  },
+  {
+    "value": "pottu",
+    "synonyms": [
+      "pottu"
+    ]
+  },
+  {
+    "value": "sathru",
+    "synonyms": [
+      "sathru"
+    ]
+  },
+  {
+    "value": "aghavan",
+    "synonyms": [
+      "aghavan"
+    ]
+  },
+  {
+    "value": "ispade rajavum idhaya raniyum",
+    "synonyms": [
+      "ispade rajavum idhaya raniyum"
+    ]
+  },
+  {
+    "value": "july kaatril",
+    "synonyms": [
+      "july kaatril"
+    ]
+  },
+  {
+    "value": "nedunalvaadai",
+    "synonyms": [
+      "nedunalvaadai"
+    ]
+  },
+  {
+    "value": "agni Devi",
+    "synonyms": [
+      "agni Devi"
+    ]
+  },
+  {
+    "value": "airaa",
+    "synonyms": [
+      "airaa"
+    ]
+  },
+  {
+    "value": "super deluxe",
+    "synonyms": [
+      "super deluxe"
+    ]
+  },
+  {
+    "value": "natpe thunai",
+    "synonyms": [
+      "natpe thunai"
+    ]
+  },
+  {
+    "value": "ganesha meendum santhipom",
+    "synonyms": [
+      "ganesha meendum santhipom"
+    ]
+  },
+  {
+    "value": "kuppathu raja",
+    "synonyms": [
+      "kuppathu raja"
+    ]
+  },
+  {
+    "value": "uriyadi 2",
+    "synonyms": [
+      "uriyadi 2"
+    ]
+  },
+  {
+    "value": "gangs of madras",
+    "synonyms": [
+      "gangs of madras"
+    ]
+  },
+  {
+    "value": "watchman",
+    "synonyms": [
+      "watchman"
+    ]
+  },
+  {
+    "value": "zhagaram",
+    "synonyms": [
+      "zhagaram"
+    ]
+  },
+  {
+    "value": "kanchana 3",
+    "synonyms": [
+      "kanchana 3"
+    ]
+  },
+  {
+    "value": "Mehandi circus",
+    "synonyms": [
+      "Mehandi circus"
+    ]
+  },
+  {
+    "value": "vellai pookal",
+    "synonyms": [
+      "vellai pookal"
+    ]
+  },
+  {
+    "value": "devarattam",
+    "synonyms": [
+      "devarattam"
+    ]
+  },
+  {
+    "value": "k-13",
+    "synonyms": [
+      "k-13"
+    ]
+  },
+  {
+    "value": "thanimai",
+    "synonyms": [
+      "thanimai"
+    ]
+  },
+  {
+    "value": "kee",
+    "synonyms": [
+      "kee"
+    ]
+  },
+  {
+    "value": "100",
+    "synonyms": [
+      "100"
+    ]
+  },
+  {
+    "value": "ayogya",
+    "synonyms": [
+      "ayogya"
+    ]
+  },
+  {
+    "value": "mr.local",
+    "synonyms": [
+      "mr.local"
+    ]
+  },
+  {
+    "value": "lisaa",
+    "synonyms": [
+      "lisaa"
+    ]
+  },
+  {
+    "value": "perazhagi iso",
+    "synonyms": [
+      "perazhagi iso"
+    ]
+  },
+  {
+    "value": "NGK",
+    "synonyms": [
+      "NGK"
+    ]
+  },
+  {
+    "value": "kolaigaran",
+    "synonyms": [
+      "kolaigaran"
+    ]
+  },
+  {
+    "value": "game over",
+    "synonyms": [
+      "game over"
+    ]
+  },
+  {
+    "value": "Nenjamundu nermaiyundu odu raja",
+    "synonyms": [
+      "Nenjamundu nermaiyundu odu raja"
+    ]
+  },
+  {
+    "value": "thumbaa",
+    "synonyms": [
+      "thumbaa"
+    ]
+  },
+  {
+    "value": "sindhubaadh",
+    "synonyms": [
+      "sindhubaadh"
+    ]
+  },
+  {
+    "value": "jiivi",
+    "synonyms": [
+      "jiivi"
+    ]
+  }
+]

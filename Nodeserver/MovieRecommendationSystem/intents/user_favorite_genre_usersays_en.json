@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0d38ae1a-d3f8-4b29-a6c2-a6e281de2211",
+    "data": [
+      {
+        "text": "comedy",
+        "alias": "movie_genre",
+        "meta": "@movie_genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f359aa68-17a6-412d-a49b-142b70bc2fe2",
+    "data": [
+      {
+        "text": "my favorite genre is ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "alias": "movie_genre",
+        "meta": "@movie_genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a1fd018-3225-47a0-9f51-f411827452ed",
+    "data": [
+      {
+        "text": "i like ",
+        "userDefined": false
+      },
+      {
+        "text": "drama",
+        "alias": "movie_genre",
+        "meta": "@movie_genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
