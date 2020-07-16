@@ -1,0 +1,56 @@
+{
+  "id": "b0627b49-7a28-47b4-9fe8-5d391355418e",
+  "name": "suggestion_based_on_movie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "suggestion_based_on_movie-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "77a9d32a-25e2-4eff-886f-1546bffcf87b",
+          "required": true,
+          "dataType": "@movie",
+          "name": "movie",
+          "value": "$movie",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry I didn\u0027t get that. Say some valid movies..."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "37b379b0-df3c-418d-a3cf-a51236e1fc96",
+  "parentId": "49ed53ec-3e3a-4f6c-84ba-81d8da91e909",
+  "rootParentId": "cb25df34-4fd8-4357-97f7-29218e863647",
+  "name": "user_favorite_language",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-option_a-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-option_a-custom",
+      "affectedContexts": [
+        {
+          "name": "user_favorite_language-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b16f5c77-ba71-40ef-960d-c6ef1ff89cda",
+          "required": true,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry I can\u0027t understand. What is your favorite language ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
