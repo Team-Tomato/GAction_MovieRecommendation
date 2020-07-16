@@ -1,0 +1,56 @@
+{
+  "id": "0ca79af8-2dad-4486-b2d7-be808aae9703",
+  "name": "recommendation_for_existing_user",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "initial_recommendation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5882ec90-4c68-4548-bf79-ea6290656e96",
+          "required": true,
+          "dataType": "@request",
+          "name": "request",
+          "value": "$request",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry! I didn\u0027t get that how can i help you in movies?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

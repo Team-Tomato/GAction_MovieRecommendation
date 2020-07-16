@@ -1,0 +1,55 @@
+{
+  "id": "c2446060-8983-492c-b667-b53e998186e3",
+  "parentId": "cb25df34-4fd8-4357-97f7-29218e863647",
+  "rootParentId": "cb25df34-4fd8-4357-97f7-29218e863647",
+  "name": "Default Welcome Intent - option_b",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "211d2709-0b81-43ec-93f6-f90ec091c5d6",
+          "required": true,
+          "dataType": "@option_b",
+          "name": "option_b",
+          "value": "$option_b",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Invalid ! Kindly choose a valid option"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
